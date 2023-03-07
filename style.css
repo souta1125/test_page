@@ -194,8 +194,8 @@ nav{
 
 .nav_inner .nav_bottom .nav_item svg{
   fill: #BCCCDB;
-  height: 15px;
-  width: 15px;
+  height: 10px;
+  width: 10px;
 }
 
 .nav_inner .nav_bottom .nav_item.is_active svg{
